@@ -1,0 +1,13 @@
+Database name: "elms"
+
+Open the browser and go to http://localhost/Employee-Leave-Management-System/
+
+Accessing admin accounts
+
+Username: admin
+Password: admin
+
+Accessing Employee accounts
+
+Username: janobe@janobe.com
+Password: janobe
